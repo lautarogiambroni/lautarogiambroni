@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @lautarogiambroni, Industrial Engineer from Argentina. Currently living in Barcelona
-- 👀 I’m interested in blockhain, solidity & python
-- 🌱 I’m currently learning how to code smart contracts
-- 💞️ I’m looking to develope and manage projects as a tech product owner at Tokeny
-- 📫 How to reach me lautarogiambroni@gmail.com
+- 👋 Hi, I’m @lautarogiambroni, Product Engineer from Argentina. Currently living in Barcelona
+- 👀 I’m interested in blockchain, finance & product development
+- 💞️ I manage projects as a  product owner at Tokeny
+- 📫 Reach me lautarogiambroni@gmail.com
